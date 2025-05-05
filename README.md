@@ -7,8 +7,13 @@ A simple python script that resizes your album covers in flac files to fit in mo
 3. confirm changes with mp3tag (optional)
 
 # Tested devices
+
 1. Mechen m30
 
 # Supported formats
 
-'.flac', '.mp3', '.m4a', '.ogg', '.wav'
+1. flac
+2. mp3
+3. ma4
+4. ogg
+5. wav
